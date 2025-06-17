@@ -1,5 +1,5 @@
 # Simple LangGraph Project
-This is a sample LangGraph project that gets simple business data (e.g., sales, costs, ...) and makes suggestions based of that data.
+This is a sample LangGraph project that gets simple business data (e.g., sales, costs, ...) and makes suggestions based on that data.
 ## How to run
 1. Install python, pip, virtualenv in your system.
 2. Clone the project `git clone https://github.com/arshiahaeri89/simple_langgraph_project && cd simple_langgraph_project`
